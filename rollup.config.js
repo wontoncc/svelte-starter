@@ -21,3 +21,4 @@ export default {
     uglify({}, minify)
   ]
 }
+
